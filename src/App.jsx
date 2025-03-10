@@ -1,5 +1,6 @@
 import React from "react";
-import DraggableElement from "./DraggableElement";
+import DraggableElement from "./DraggableElement.jsx";
+
 
 const App = () => {
   return (
